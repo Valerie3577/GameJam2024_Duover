@@ -1,0 +1,6 @@
+2024/03/16-15:12:51.169 7960 Creating DB C:/Users/jhogg1/Documents/GitHub/GameJam2024_Duover/GameJam2024_Duover/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/16-15:12:51.182 7960 Reusing MANIFEST C:/Users/jhogg1/Documents/GitHub/GameJam2024_Duover/GameJam2024_Duover/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-15:14:41.847 7554 Level-0 table #5: started
+2024/03/16-15:14:41.863 7554 Level-0 table #5: 1167 bytes OK
+2024/03/16-15:14:41.866 7554 Delete type=0 #3
+2024/03/16-15:14:41.867 7554 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
