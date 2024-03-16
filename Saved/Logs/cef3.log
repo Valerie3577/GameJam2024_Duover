@@ -1,3 +1,10 @@
-[0316/154502.687:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
-[0316/154658.316:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0316/155004.608:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0316/162101.877:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0316/162102.371:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0316/162102.372:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0316/162104.424:WARNING:storage_block-inl.h(146)] Failed data load.
+[0316/162104.425:WARNING:storage_block-inl.h(146)] Failed data load.
+[0316/162104.428:WARNING:storage_block-inl.h(146)] Failed data load.
+[0316/162104.431:WARNING:storage_block-inl.h(146)] Failed data load.
+[0316/162104.432:ERROR:entry_impl.cc(998)] Failed to save user data
+[0316/162104.432:ERROR:entry_impl.cc(998)] Failed to save user data
+[0316/162302.181:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
